@@ -123,17 +123,20 @@ Use the superuser credentials you created to access the admin panel and manage u
 
 ## 📷 Screenshots
 
-### 🏠 Homepage
-![Homepage](screenshots/homepage.png)
-
-### 📝 View Post
-![Post Detail](screenshots/post_detail.png)
-
-### ➕ Create Post
-![Create Form](screenshots/create_form.png)
+### 🔐 Signup Page
+![Signup Page](screenshots/Signup.png)
 
 ### 🔐 Login Page
 ![Login Page](screenshots/login.png)
+
+### 🏠 Homepage
+![Homepage](screenshots/OurPosts.png)
+
+### 📝 Edit Post
+![Post Detail](screenshots/Edit.png)
+
+### ➕ Create Post
+![Create Form](screenshots/create_form.png)
 
 ---
 
