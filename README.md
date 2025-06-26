@@ -135,9 +135,6 @@ Use the superuser credentials you created to access the admin panel and manage u
 ### 📝 Edit Post
 ![Post Detail](screenshots/Edit.png)
 
-### ➕ Create Post
-![Create Form](screenshots/create_form.png)
-
 ---
 
 ## 🛠️ Tech Stack
